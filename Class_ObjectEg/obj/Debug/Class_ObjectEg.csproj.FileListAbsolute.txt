@@ -1,0 +1,7 @@
+E:\New folder\Online Training\C#\Day3\CsharpDay3\Class_ObjectEg\bin\Debug\Class_ObjectEg.exe.config
+E:\New folder\Online Training\C#\Day3\CsharpDay3\Class_ObjectEg\bin\Debug\Class_ObjectEg.exe
+E:\New folder\Online Training\C#\Day3\CsharpDay3\Class_ObjectEg\bin\Debug\Class_ObjectEg.pdb
+E:\New folder\Online Training\C#\Day3\CsharpDay3\Class_ObjectEg\obj\Debug\Class_ObjectEg.csprojAssemblyReference.cache
+E:\New folder\Online Training\C#\Day3\CsharpDay3\Class_ObjectEg\obj\Debug\Class_ObjectEg.csproj.CoreCompileInputs.cache
+E:\New folder\Online Training\C#\Day3\CsharpDay3\Class_ObjectEg\obj\Debug\Class_ObjectEg.exe
+E:\New folder\Online Training\C#\Day3\CsharpDay3\Class_ObjectEg\obj\Debug\Class_ObjectEg.pdb

@@ -1,0 +1,7 @@
+E:\New folder\Online Training\C#\Day3\CsharpDay3\Assignment3\bin\Debug\Assignment3.exe.config
+E:\New folder\Online Training\C#\Day3\CsharpDay3\Assignment3\bin\Debug\Assignment3.exe
+E:\New folder\Online Training\C#\Day3\CsharpDay3\Assignment3\bin\Debug\Assignment3.pdb
+E:\New folder\Online Training\C#\Day3\CsharpDay3\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+E:\New folder\Online Training\C#\Day3\CsharpDay3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+E:\New folder\Online Training\C#\Day3\CsharpDay3\Assignment3\obj\Debug\Assignment3.exe
+E:\New folder\Online Training\C#\Day3\CsharpDay3\Assignment3\obj\Debug\Assignment3.pdb
